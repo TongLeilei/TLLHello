@@ -1,0 +1,6 @@
+framework module Pods_TLLHello_Tests {
+  umbrella header "Pods-TLLHello_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

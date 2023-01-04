@@ -1,0 +1,6 @@
+framework module TLLHello {
+  umbrella header "TLLHello-umbrella.h"
+
+  export *
+  module * { export * }
+}

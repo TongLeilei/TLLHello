@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - TLLHello (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - TLLHello (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  TLLHello:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  TLLHello: 44012be2b8e0d392d56ebbed662c1c8848692c2b
+
+PODFILE CHECKSUM: f2f2a321ed584c605ed15421c7a000aece079d49
+
+COCOAPODS: 1.11.2

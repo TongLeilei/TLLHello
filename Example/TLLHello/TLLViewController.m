@@ -7,7 +7,7 @@
 //
 
 #import "TLLViewController.h"
-
+#import "TLLTestManager.h"
 @interface TLLViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [[[TLLTestManager alloc]init]testPrint:@"呜呼呼"];
 }
 
 - (void)didReceiveMemoryWarning

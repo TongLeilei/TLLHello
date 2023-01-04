@@ -1,0 +1,22 @@
+{
+  "name": "TLLHello",
+  "version": "0.1.0",
+  "summary": "A short description of TLLHello.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/童蕾/TLLHello",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "童蕾": "k11608@nbcb.com"
+  },
+  "source": {
+    "git": "https://github.com/童蕾/TLLHello.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TLLHello/Classes/**/*"
+}
